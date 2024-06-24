@@ -1,6 +1,6 @@
 Bem vindo ao meu repsitório
 
-# 💫 About Me:
+
 Eu me chamo Luiz e tenho 17 anos de idade, atualmente estou cursando o 2° ano do ensino médio e o curso de desenvolvimento de sistemas no Senai.
 
 
