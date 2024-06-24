@@ -1,11 +1,14 @@
-Bem vindo ao meu repsitório
+<h1>Bem vindo ao meu repositório</h1>
 
 
 Eu me chamo Luiz e tenho 17 anos de idade, atualmente estou cursando o 2° ano do ensino médio e o curso de desenvolvimento de sistemas no Senai.
 
-<div align="center">
-## 🌐 Socials:
+# 🌐 Socials:
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizeduardo7160/)
+
+<div align="center">
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
